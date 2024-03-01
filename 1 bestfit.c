@@ -11,6 +11,7 @@ scanf("%d",&np);
 printf("\n Enter the size of the blocks:");
 for(i=1;i<=nb;i++)
 {
+  print(hi)
 printf("Block no.%d:",i);
 scanf("%d",&b[i]);
 }
